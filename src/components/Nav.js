@@ -1,6 +1,9 @@
 function Nav (){
     return(
-   <nav>
+   <nav className= "navi">
+        <div>
+                <h1>UNIVERSITY GRADUATION</h1>
+        </div>
        <ul>
        <li>Home</li>
        <li>Pictures</li>

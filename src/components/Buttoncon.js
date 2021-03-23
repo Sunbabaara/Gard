@@ -1,7 +1,7 @@
 function Buttoncon (props) {
     return (
         <div>
-          <button></button>  
+          <button>VIEW</button>  
         </div>
     );
 }

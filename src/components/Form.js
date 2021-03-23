@@ -1,6 +1,6 @@
 const Form = () => {
     return (
-        <div id="footer-con">
+        <div className="form-con">
         <form>
             <input type="text" placeholder="enter name"/>
             <input type="number" placeholder="enter age"/>
